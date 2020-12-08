@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car Detailing by Monty</string>
+    <string name="headline_text">Car Detailing by Monty</string>
+    <string name="calltoaction_text">Call Monty</string>
+    <string name="phonenumber_text">0475 284 762</string>
+    <string name="shiny_image">Shiny Car</string>
+    <string name="servicearea_text">Serving the Mornington Peninsula</string>
+</resources>
